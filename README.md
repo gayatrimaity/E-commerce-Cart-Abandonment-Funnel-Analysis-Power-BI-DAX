@@ -1,6 +1,5 @@
 # E-commerce-Cart-Abandonment-Funnel-Analysis-Power-BI-DAX
-Problem Statement: Analysed the purchase funnel to understand where users dropped off before completing a purchase.
-
-Insights: Identified higher cart abandonment on mobile devices and a drop of approximately 4,000 users between the cart and checkout stages.
-
-Solution Provided: Recommended improving the mobile experience, simplifying checkout and providing clearer pricing information to reduce friction and improve conversions.
+Tools Used:  Power BI, DAX 
+Problem Statement: To understand why users abandon carts, where users drop-off, what causes friction, and how to improve conversion. 
+Insights: Higher cart abandonment observed on mobile, indicating potential UX limitations. 4K user drop between cart and checkout stage, identifying a critical friction point in the conversion funnel. 
+Solution Provided: Recommended improving mobile UX to reduce higher abandonment on smaller devices. Additionally, proposed simplifying the checkout process and increasing pricing transparency.

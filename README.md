@@ -1,3 +1,5 @@
+<img width="1366" height="720" alt="E-commerce Cart Abandonment Funnel Analysis" src="https://github.com/user-attachments/assets/4a6099ee-ce1a-4a37-a589-17149b83a6c2" />
+<img width="1366" height="720" alt="E-commerce Cart Abandonment Funnel Analysis" src="https://github.com/user-attachments/assets/dd3b02a2-6e7c-441b-bde2-c9694592cb54" />
 # E-Commerce Cart Abandonment & Conversion Funnel Analysis
 
 ## 1. Project Overview

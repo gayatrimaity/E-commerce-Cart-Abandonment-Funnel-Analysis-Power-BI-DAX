@@ -1,6 +1,6 @@
-<img width="1366" height="720" alt="E-commerce Cart Abandonment Funnel Analysis" src="https://github.com/user-attachments/assets/4a6099ee-ce1a-4a37-a589-17149b83a6c2" />
-<img width="1366" height="720" alt="E-commerce Cart Abandonment Funnel Analysis" src="https://github.com/user-attachments/assets/dd3b02a2-6e7c-441b-bde2-c9694592cb54" />
 # E-Commerce Cart Abandonment & Conversion Funnel Analysis
+<img width="776" height="440" alt="E-commerce Cart Abandonment Funnel Analysis" src="https://github.com/user-attachments/assets/c89bcdaa-774c-441b-8d6a-95c1f4b755a7" />
+
 
 ## 1. Project Overview
 This project analyses user behaviour across the e-commerce shopping journey to understand why customers abandon their carts, identify critical drop-off points, and highlight opportunities to improve conversion rates.
